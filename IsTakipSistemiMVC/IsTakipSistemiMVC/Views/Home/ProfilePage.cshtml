@@ -1,0 +1,48 @@
+﻿@model IsTakipSistemiMVC.Models.ProfileViewModel
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_LayoutCalisan.cshtml";
+}
+<div class="container mt-5 mb-3">
+    <div class="mb-3">
+        <h2>Bilgilerim</h2>
+    </div>
+    <div class="card">
+        <div class="card-header">
+            Ad Soyad: @Model.Personel.PersonelAdSoyad
+        </div>
+        <div class="card-body">
+            <ul class="list-group">
+                <li class="list-group-item">Kullanıcı Ad: @Model.Personel.PersonelKullaniciAd</li>
+                <li class="list-group-item">ID No: @Model.Personel.PersonelId</li>
+                <li class="list-group-item">Telefon No: @Model.Personel.PersonelTelefonNo</li>
+                <li class="list-group-item">Birim Adı: @Model.Birimler.BirimAd</li>
+            </ul>
+        </div>
+    </div>
+    <div class="mt-3 mb-3">
+        <h2>Tamamlanan İşler</h2>
+    </div>
+    @foreach (var isler in Model.Isler)
+    {
+        <div class="card">
+            <div class="card-header  ">
+                İş Başlığı: @isler.IsBaslik
+            </div>
+            <div class="card-body">
+                <ul class="list-group ">
+                    <li class="list-group-item">İş açıklaması: @isler.IsAciklama</li>
+                    <li class="list-group-item">İş iletim tarihi: @isler.IletilenTarih</li>
+                    <li class="list-group-item">İşin yapılış tarihi: @isler.YapilanTarih</li>
+                    <li class="list-group-item">İş Yorumu: @isler.IsYorum</li>
+                    <li class="list-group-item">İş durumu: @isler.DurumAd</li>
+
+
+
+                </ul>
+            </div>
+        </div>
+
+    }
+   
+</div>

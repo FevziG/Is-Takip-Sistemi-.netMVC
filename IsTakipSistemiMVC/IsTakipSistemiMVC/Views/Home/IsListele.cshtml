@@ -1,0 +1,61 @@
+﻿@model IsTakipSistemiMVC.Models.IsTakipViewModel
+@{
+    ViewBag.Tittle = "İş Listele";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+
+}
+
+<div class="container mt-5 mb-3">
+    <div class="mb-3">
+        <h3>@Model.Personel.PersonelAdSoyad Kişisinin Tamamlanması Beklenen İşlerinin Listesi</h3>
+    </div>
+    @foreach (var isler in Model.Isler)
+    {
+        if (isler.IsDurumId==1) 
+        {
+        <div class="card">
+            <div class="card-header text-center ">
+                @isler.IsBaslik
+            </div>
+            <div class="card-body">
+                <ul class="list-group ">
+                    <li class="list-group-item">İş açıklaması: @isler.IsAciklama</li>
+                    <li class="list-group-item">İş iletim tarihi: @isler.IletilenTarih</li>
+                    <li class="list-group-item">İşin yapılış tarihi: @isler.YapilanTarih</li>
+                    <li class="list-group-item">İş Yorumu: @isler.IsYorum</li>
+                    <li class="list-group-item">İş durumu: @isler.DurumAd</li>
+
+
+
+                </ul>
+            </div>
+        </div>
+        }
+    }
+    <div class="mb-3">
+        <h3>@Model.Personel.PersonelAdSoyad Kişisinin Tamamladığı İşlerinin Listesi</h3>
+    </div>
+    @foreach (var isler in Model.Isler)
+    {
+        if (isler.IsDurumId == 2)
+        {
+            <div class="card">
+                <div class="card-header text-center ">
+                    @isler.IsBaslik
+                </div>
+                <div class="card-body">
+                    <ul class="list-group ">
+                        <li class="list-group-item">İş açıklaması: @isler.IsAciklama</li>
+                        <li class="list-group-item">İş iletim tarihi: @isler.IletilenTarih</li>
+                        <li class="list-group-item">İşin yapılış tarihi: @isler.YapilanTarih</li>
+                        <li class="list-group-item">İş Yorumu: @isler.IsYorum</li>
+                        <li class="list-group-item">İş durumu: @isler.DurumAd</li>
+
+
+
+                    </ul>
+                </div>
+            </div>
+        }
+    }
+</div>

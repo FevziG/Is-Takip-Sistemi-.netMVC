@@ -1,0 +1,28 @@
+﻿@model List<IsTakipSistemiMVC.Models.Isler>
+@{
+    Layout = "~/Views/Shared/_LayoutCalisan.cshtml";
+}
+
+<h2>@ViewBag.WelcomeMessage</h2>
+@* <p>@ViewBag.BirimAd</p> *@
+
+@foreach (var isler in Model)
+{   
+    <div class="card">
+        <div class="card-header text-center">
+            <p>Yeni İş: @isler.IsBaslik</p>
+        </div>
+
+        <div class="card-body">
+            <form asp-controller="Home" asp-action="WorkerYeniIs">
+                <p>İş Açıklaması: @isler.IsAciklama</p>
+                <p>İş İletim Tarihi: @isler.IletilenTarih</p>
+                <input type="hidden" name="IsId" value="@isler.IsId"/>
+    
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-outline-success">Okudum</button>
+                </div>
+            </form>
+        </div>
+    </div>
+}

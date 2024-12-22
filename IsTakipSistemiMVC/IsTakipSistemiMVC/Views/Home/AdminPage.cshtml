@@ -1,0 +1,45 @@
+﻿@model List<IsTakipSistemiMVC.Models.Personeller>
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Admin Page</h1>
+<h2>@ViewBag.WelcomeMessage</h2>
+
+<div class="container mt-5 mb-3">
+    <div class="mb-3">
+        @ViewBag.BirimAd Biriminde Çalışanlar
+    </div>
+    <div class="card">
+    @foreach (var personel in Model)
+    {   
+        <div class="card-header">
+            Ad Soyad: @personel.PersonelAdSoyad      
+        </div>
+            
+        <div class="card-body">
+            
+            <ul class="list-group ">
+                <li class="list-group-item"> Kullanıcı Ad: @personel.PersonelKullaniciAd</li>
+                <li class="list-group-item"> Yetki ID: @personel.PersonelYetkiTurId</li>
+                <li class="list-group-item"> Telefon No: @personel.PersonelTelefonNo</li>
+                <li class="list-group-item"> Parola: @personel.PersonelParola</li>
+            </ul>
+                <form asp-controller="Home" asp-action="WorkerEditPage" method="post">
+                    <input type="hidden" name="personelId" value="@personel.PersonelId"/>
+                    <button type="submit" class="btn btn-primary" >Edit</button>
+                </form>
+
+                <form asp-controller="Home" asp-action="WorkerDelete" method="post">
+                    <input type="hidden" name="personelId" value="@personel.PersonelId " />
+                    <button type="submit" class="btn btn-danger">X</button>
+                </form>
+            
+        </div>
+        
+           
+        }
+    </div>
+
+</div>
+

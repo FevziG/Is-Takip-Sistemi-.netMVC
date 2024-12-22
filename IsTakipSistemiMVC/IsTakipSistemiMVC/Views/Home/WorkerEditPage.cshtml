@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+
+}
+
+<form asp-controller="Home" asp-action="Register" method="post">
+         @* <h3>Register</h3> *@
+        <label for="adSoyad">Ad ve Soyad</label>
+        <input type="text" placeholder="name and surname" id="adSoyad" name="adSoyad" />
+
+        <label for="username">Kullanıcı Adı</label>
+        <input type="text" placeholder="Write Username" id="username" name="username" />
+
+        <label for="password">Parola</label>
+        <input type="password" placeholder="Write password" id="password" name="password" />
+
+        <label for="birimId">Personel Yetki Tür Id</label>
+        <input type="text" placeholder="write yetki ıd" id="yetkiId" name="birimId" />
+
+        <label for="phoneNumber">Telefon Numarası</label>
+        <input type="text" placeholder="Write phone number" id="phoneNumber" name="phoneNumber"/>
+
+    <button type="submit">Kaydet</button>
+</form>
