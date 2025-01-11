@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Takip";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="container mt-5">
+    <div class="mb-3">
+        <h3> List the Jobs of Worker in @ViewBag.BirimAd</h3>
+    </div>
+    <form asp-controller="Home" asp-action="isTakip" method="post">
+        <div class="mb-3">
+            @* <label for="" class="">Personeller</label> *@
+            <select class="form-select" name="selectPerId" id="selectPer">
+                @foreach (var personel in ViewBag.çalışanlar)
+                {
+                    <option value="@personel.PersonelId">@personel.PersonelKullaniciAd</option>
+                    
+                }
+            </select>
+        </div>
+        <div class="mb-3">
+            <button class=" btn btn-outline-secondary" type="submit">List Job</button>
+        </div>
+
+    </form>
+    <form asp-controller="Home" asp-action="isListele" method="get">
+
+    </form>
+</div>
+
+
+
+
+ @* @ViewBag.message  *@
+ @* @ViewBag.çalışanlar  *@
+
+        @* list-group-flush *@

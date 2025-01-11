@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fevzi g\u00FCler\\desktop\\istakipsistemimvc\\istakipsistemimvc\\views\\home\\islistele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\views\\home\\islistele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IsListele.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC\\IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
+              "ToolTip": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC\\IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
+              "RelativeToolTip": "IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T11:03:12.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Register Page";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Register</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/RegisterPage.css" />
+</head>
+<body>
+    <div class="background">
+        <div class="shape"></div>
+        <div class="shape"></div>
+    </div>
+
+    <h3>Register</h3>
+    
+    @if (ViewBag.ErrorMessage != null) 
+    {
+        <div class="alert alert-danger d-flex align-items-center" role="alert">
+            <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Danger:"><use xlink:href="#exclamation-triangle-fill" /></svg>
+            <div>
+                @ViewBag.ErrorMessage
+            </div>
+        </div>
+    }
+    <form asp-controller="Home" asp-action="Register" method="post">
+         @* <h3>Register</h3> *@
+        <label for="adSoyad">Name Surname</label>
+        <input type="text" placeholder="Name and Surname" id="adSoyad" name="adSoyad" />
+
+        <label for="username">Username</label>
+        <input type="text" placeholder="Write Username" id="username" name="username" />
+
+        <label for="password">Password</label>
+        <input type="password" placeholder="Write Password" id="password" name="password" />
+
+        <label for="birimId">Worker Unit ID</label>
+        <input type="text" placeholder="Write Unit Id" id="birimId" name="birimId" />
+
+        <label for="phoneNumber">Phone Number</label>
+        <input type="text" placeholder="Write Phone Number" id="phoneNumber" name="phoneNumber"/>
+
+        @* <label for="yetkiId">Personel Yetki Id</label> *@
+        @* <input type="text" placeholder="write yetki ıd" id="yetkiId" name="yetkiId" /> *@
+
+        <button type="submit">Register</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,62 @@
+﻿@model List<IsTakipSistemiMVC.Models.IsDurumViewModel>
+@{
+    Layout = "~/Views/Shared/_LayoutCalisan.cshtml";
+
+}
+<div class="container mt-3 mb-3">
+
+    <div class="mb-3">
+        <h3>List of Your Jobs to Be Completed</h3>
+    </div>
+    @foreach (var isler in Model)
+    {
+        if(isler.IsDurumId ==1){
+            <div class="card mb-2">
+                <div class="card-header  text-center ">
+                    @isler.IsBaslik
+                </div>
+                <div class="card-body">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Job Description: @isler.IsAciklama</li>
+                        <li class="list-group-item">Job Transmission Date: @isler.IletilenTarih</li>
+                        <li class="list-group-item">Job Status: @isler.DurumAd</li>
+                        <li class="list-group-item">Completion Date of the Job: @isler.YapilanTarih</li>
+                        <li class="list-group-item">Comment of Job: @isler.IsYorum</li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+        }
+    }
+
+    <div class="mb-3 mt-3">
+        <h3>List of Your Completed Jobs</h3>
+    </div>
+    @foreach (var isler in Model)
+    {
+        if (isler.IsDurumId == 2) 
+        {
+            <div class="card">
+                <div class="card-header  text-center ">
+                    @isler.IsBaslik
+                </div>
+                <div class="card-body">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Job Description: @isler.IsAciklama</li>
+                        <li class="list-group-item">Job Transmission Date: @isler.IletilenTarih</li>
+                        <li class="list-group-item">Job Status: @isler.DurumAd</li>
+                        <li class="list-group-item">Completion date of the Work: @isler.YapilanTarih</li>
+                        <li class="list-group-item">Comment of Job: @isler.IsYorum</li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+        }
+
+    }
+
+</div>

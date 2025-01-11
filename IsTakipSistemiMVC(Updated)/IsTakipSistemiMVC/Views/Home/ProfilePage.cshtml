@@ -1,0 +1,46 @@
+﻿@model IsTakipSistemiMVC.Models.ProfileViewModel
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_LayoutCalisan.cshtml";
+}
+<div class="container mt-5 mb-3">
+    <div class="mb-3">
+        <h2>My Information</h2>
+    </div>
+    <div class="card">
+        <div class="card-header">
+            Name Surname: @Model.Personel.PersonelAdSoyad
+        </div>
+        <div class="card-body">
+            <ul class="list-group">
+                <li class="list-group-item">Username: @Model.Personel.PersonelKullaniciAd</li>
+                <li class="list-group-item">ID Number: @Model.Personel.PersonelId</li>
+                <li class="list-group-item">Phone Number: @Model.Personel.PersonelTelefonNo</li>
+                <li class="list-group-item">Unit Name: @Model.Birimler.BirimAd</li>
+            </ul>
+        </div>
+    </div>
+    <div class="mt-3 mb-3">
+        <h2>Completed Jobs</h2>
+    </div>
+    @foreach (var isler in Model.Isler)
+    {
+        <div class="card">
+            <div class="card-header  ">
+                Job Tittle: @isler.IsBaslik
+            </div>
+            <div class="card-body">
+                <ul class="list-group ">
+                    <li class="list-group-item">Job Description: @isler.IsAciklama</li>
+                    <li class="list-group-item">Job Transmission Date: @isler.IletilenTarih</li>
+                    <li class="list-group-item">Date of completion of the job: @isler.YapilanTarih</li>
+                    <li class="list-group-item">Job Comment: @isler.IsYorum</li>
+                    <li class="list-group-item">Job Status: @isler.DurumAd</li>
+
+                </ul>
+            </div>
+        </div>
+
+    }
+   
+</div>
