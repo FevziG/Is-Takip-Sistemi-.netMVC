@@ -1,0 +1,27 @@
+﻿@model List<IsTakipSistemiMVC.Models.Isler>
+@{
+    Layout = "~/Views/Shared/_LayoutCalisan.cshtml";
+}
+<link rel="stylesheet" href="~/css/WorkerPage.css" />
+<h2>@ViewBag.WelcomeMessage</h2>
+@* <p>@ViewBag.BirimAd</p> *@
+
+@foreach (var isler in Model)
+{   
+    <div class="card mb-3">
+        <div class="card-header text-center">
+            <p>New Assignment: @isler.IsBaslik</p>
+
+        </div>
+
+        <div class="card-body">
+            <form asp-controller="Home" asp-action="WorkerYeniIs">
+                <p>Assignment Description: @isler.IsAciklama</p>
+                <p>Job Transmission Date: @isler.IletilenTarih</p>
+                <input type="hidden" name="IsId" value="@isler.IsId"/>
+                <button type="submit" id="okundu-button" class="btn btn-outline-success">✓</button>
+
+            </form>
+        </div>
+    </div>
+}

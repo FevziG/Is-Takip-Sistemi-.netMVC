@@ -1,0 +1,62 @@
+﻿@model IsTakipSistemiMVC.Models.IsTakipViewModel
+@{
+    ViewBag.Tittle = "İş Listele";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+
+}
+<link rel="stylesheet" href="~/css/IsListele.css" />
+
+<div class="container mt-5 mb-3">
+    <div class="mb-3">
+        <h3>@Model.Personel.PersonelAdSoyad Kişisinin Tamamlanması Beklenen İşlerinin Listesi</h3>
+    </div>
+    @foreach (var isler in Model.Isler)
+    {
+        if (isler.IsDurumId==1) 
+        {
+        <div class="card">
+            <div class="card-header text-center ">
+                @isler.IsBaslik
+            </div>
+            <div class="card-body">
+                <ul class="list-group ">
+                        <li class="list-group-item"><b>Job Description:</b> @isler.IsAciklama</li>
+                        <li class="list-group-item"><b>Job Transmission Date:</b>@isler.IletilenTarih</li>
+                        <li class="list-group-item"><b>Completion Date of Job:</b> @isler.YapilanTarih</li>
+                        <li class="list-group-item"><b>Comment of Job:</b> @isler.IsYorum</li>
+                        <li class="list-group-item"><b>Job Status:</b> @isler.DurumAd</li>
+
+
+
+                </ul>
+            </div>
+        </div>
+        }
+    }
+    <div class="mb-3">
+        <h3>List of Completed Jobs by @Model.Personel.PersonelAdSoyad </h3>
+    </div>
+    @foreach (var isler in Model.Isler)
+    {
+        if (isler.IsDurumId == 2)
+        {
+            <div class="card">
+                <div class="card-header text-center ">
+                    @isler.IsBaslik
+                </div>
+                <div class="card-body">
+                    <ul class="list-group ">
+                        <li class="list-group-item"><b>Job Description:</b> @isler.IsAciklama</li>
+                        <li class="list-group-item"><b>Job Transmission Date</b> @isler.IletilenTarih</li>
+                        <li class="list-group-item"><b>Completion Date of the Job:</b> @isler.YapilanTarih</li>
+                        <li class="list-group-item"><b>Comment of Job:</b> @isler.IsYorum</li>
+                        <li class="list-group-item"><b>Job Status:</b> @isler.DurumAd</li>
+
+
+
+                    </ul>
+                </div>
+            </div>
+        }
+    }
+</div>

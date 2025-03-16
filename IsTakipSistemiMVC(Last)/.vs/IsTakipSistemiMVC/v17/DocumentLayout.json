@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC(Last)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fevzi g\u00FCler\\desktop\\istakipsistemimvc(last)\\istakipsistemimvc\\views\\home\\workereditpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\views\\home\\workereditpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fevzi g\u00FCler\\desktop\\istakipsistemimvc(last)\\istakipsistemimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fevzi g\u00FCler\\desktop\\istakipsistemimvc(last)\\istakipsistemimvc\\views\\home\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\views\\home\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerEditPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC(Last)\\IsTakipSistemiMVC\\Views\\Home\\WorkerEditPage.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Views\\Home\\WorkerEditPage.cshtml",
+              "ToolTip": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC(Last)\\IsTakipSistemiMVC\\Views\\Home\\WorkerEditPage.cshtml",
+              "RelativeToolTip": "IsTakipSistemiMVC\\Views\\Home\\WorkerEditPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T11:27:11.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC(Last)\\IsTakipSistemiMVC\\Views\\Home\\AdminPage.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Views\\Home\\AdminPage.cshtml",
+              "ToolTip": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC(Last)\\IsTakipSistemiMVC\\Views\\Home\\AdminPage.cshtml",
+              "RelativeToolTip": "IsTakipSistemiMVC\\Views\\Home\\AdminPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T11:24:45.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC(Last)\\IsTakipSistemiMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC(Last)\\IsTakipSistemiMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IsTakipSistemiMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwP0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:09:37.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
