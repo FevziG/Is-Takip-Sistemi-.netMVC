@@ -1,0 +1,47 @@
+﻿@model IsTakipSistemiMVC.Models.ProfileViewModel
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_LayoutCalisan.cshtml";
+}
+<link rel="stylesheet" href="~/css/ProfilePage.css" />
+<div class="container mt-5 mb-3">
+    <div class="mb-3">
+        <h2>My Information</h2>
+    </div>
+    <div class="card">
+        <div class="card-header">
+            <b> Name Surname:</b> &nbsp;&nbsp;&nbsp; @Model.Personel.PersonelAdSoyad
+        </div>
+        <div class="card-body">
+            <ul class="list-group">
+                <li class="list-group-item"><b>Username:</b> @Model.Personel.PersonelKullaniciAd</li>
+                <li class="list-group-item"><b>ID Number:</b> @Model.Personel.PersonelId</li>
+                <li class="list-group-item"><b>Phone Number:</b> @Model.Personel.PersonelTelefonNo</li>
+                <li class="list-group-item"><b>Unit Name:</b> @Model.Birimler.BirimAd</li>
+            </ul>
+        </div>
+    </div>
+    <div class="mt-3 mb-3">
+        <h2>Completed Jobs</h2>
+    </div>
+    @foreach (var isler in Model.Isler)
+    {
+        <div class="card mb-3 ">
+            <div class="card-header  ">
+                <b> Job Tittle:</b> &nbsp;&nbsp;&nbsp; @isler.IsBaslik
+            </div>
+            <div class="card-body">
+                <ul class="list-group ">
+                    <li class="list-group-item"><b>Job Description:</b> @isler.IsAciklama</li>
+                    <li class="list-group-item"><b>Job Transmission Date:</b> @isler.IletilenTarih</li>
+                    <li class="list-group-item"><b>Date of completion of the job:</b> @isler.YapilanTarih</li>
+                    <li class="list-group-item"><b>Job Comment:</b> @isler.IsYorum</li>
+                    <li class="list-group-item"><b>Job Status:</b> @isler.DurumAd</li>
+
+                </ul>
+            </div>
+        </div>
+
+    }
+   
+</div>
