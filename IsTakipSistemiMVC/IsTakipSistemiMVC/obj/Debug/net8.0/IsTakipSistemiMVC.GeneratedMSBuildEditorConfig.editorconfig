@@ -9,89 +9,89 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IsTakipSistemiMVC
 build_property.RootNamespace = IsTakipSistemiMVC
-build_property.ProjectDir = C:\Users\Fevzi Güler\Desktop\IsTakipSistemiMVC\IsTakipSistemiMVC\
+build_property.ProjectDir = C:\Calısmalarım\Is-Takip-Sistemi-.netMVC\IsTakipSistemiMVC\IsTakipSistemiMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Fevzi Güler\Desktop\IsTakipSistemiMVC\IsTakipSistemiMVC
+build_property.MSBuildProjectDirectory = C:\Calısmalarım\Is-Takip-Sistemi-.netMVC\IsTakipSistemiMVC\IsTakipSistemiMVC
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/AdminPage.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/AdminPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pblBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/IsAtaPage.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/IsAtaPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJc0F0YVBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/IsListele.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/IsListele.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJc0xpc3RlbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/IsListeleWorker.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/IsListeleWorker.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJc0xpc3RlbGVXb3JrZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/IsTakipPage.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/IsTakipPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJc1Rha2lwUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/isTamamlaPage.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/isTamamlaPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpc1RhbWFtbGFQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/LoginPage.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/LoginPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpblBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/Privacy.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/ProfilePage.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/ProfilePage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/RegisterPage.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/RegisterPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RlclBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/WorkerEditPage.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/WorkerEditPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXb3JrZXJFZGl0UGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/WorkerPage.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Home/WorkerPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXb3JrZXJQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Shared/Error.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Shared/_LayoutAdmin.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Shared/_LayoutCalisan.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Shared/_LayoutCalisan.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDYWxpc2FuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/_ViewImports.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/_ViewStart.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fevzi Güler/Desktop/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Shared/_Layout.cshtml]
+[C:/Calısmalarım/Is-Takip-Sistemi-.netMVC/IsTakipSistemiMVC/IsTakipSistemiMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x49r2jl3lh

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC\\",
+  "WorkspaceRootPath": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(Updated)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fevzi g\u00FCler\\desktop\\istakipsistemimvc\\istakipsistemimvc\\views\\home\\islistele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\views\\home\\islistele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\cal\u0131smalar\u0131m\\is-takip-sistemi-.netmvc\\istakipsistemimvc(updated)\\istakipsistemimvc\\models\\istakipdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\models\\istakipdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\cal\u0131smalar\u0131m\\is-takip-sistemi-.netmvc\\istakipsistemimvc(updated)\\istakipsistemimvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +21,29 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(Updated)\\IsTakipSistemiMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\appsettings.json",
+              "ToolTip": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(Updated)\\IsTakipSistemiMVC\\appsettings.json",
+              "RelativeToolTip": "IsTakipSistemiMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T14:59:24.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IsListele.cshtml",
-              "DocumentMoniker": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC\\IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
-              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
-              "ToolTip": "C:\\Users\\Fevzi G\u00FCler\\Desktop\\IsTakipSistemiMVC\\IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
-              "RelativeToolTip": "IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T11:03:12.898Z",
+              "Title": "IsTakipDbContext.cs",
+              "DocumentMoniker": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(Updated)\\IsTakipSistemiMVC\\Models\\IsTakipDbContext.cs",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Models\\IsTakipDbContext.cs",
+              "ToolTip": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(Updated)\\IsTakipSistemiMVC\\Models\\IsTakipDbContext.cs",
+              "RelativeToolTip": "IsTakipSistemiMVC\\Models\\IsTakipDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:53:19.614Z",
               "EditorCaption": ""
             }
           ]
