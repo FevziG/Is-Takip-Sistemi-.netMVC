@@ -1,0 +1,63 @@
+﻿html, body {
+    height: 100%;
+    margin: 0;
+    background-image: url(../img/88.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+/* Genel kart düzeni */
+.card {
+    border: 0px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Kart başlığı */
+.card-header {
+    display:flex;
+    background-color: #343a40;
+    color: white;
+    padding: 15px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+
+}
+#okundu-button {
+    margin-top:0px;
+    margin-left:30px;
+    padding-top:0px;
+    border:none;
+    font-size:1.8rem;
+
+
+
+    }
+
+/* Kart gövdesi */
+.card-body {
+    padding: 20px;
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.5;
+}
+
+    /* Gövde içindeki paragraflar */
+    .card-body p {
+        margin-bottom: 10px;
+    }
+
+/* Kart alt bilgisi (footer) */
+.card-footer {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}

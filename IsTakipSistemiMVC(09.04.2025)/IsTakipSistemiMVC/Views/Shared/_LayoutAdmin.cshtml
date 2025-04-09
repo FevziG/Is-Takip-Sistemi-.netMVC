@@ -1,0 +1,93 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Job Tracking System</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    @* <link href="~/css/bootstrap.css/bootstrap.min.css" rel="stylesheet"/> *@
+    @* <script src="~/js/bootstrap.bundle.js/bootstrap.bundle.min.js"></script> *@
+
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Admin Page</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+                    <li class="nav-item">
+                        <a class="nav-link active" asp-controller="Home" asp-action="AdminPage">Worker Edit</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" asp-controller="Home" asp-action="RegisterPage">Worker Registration</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="isAtaPage">Job Assignment</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="isTakipPage">Job Tracking</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="AIPage">AI</a>
+                    </li>
+                </ul>
+                <form class="d-flex" asp-controller="Home" asp-action="Logout" method="post">
+                    <button class="btn btn-outline-success" type="submit">Log out</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <div class="container mt-3">
+        @RenderBody()  <!-- İçerik burada render edilecek -->
+    </div>
+    @* <!-- Floating Button --> *@
+    @* <button id="ai-chat-btn" class="ai-chat-btn" style="position: fixed; bottom: 20px; right: 20px;"> *@
+    @*     AI Chat *@
+    @* </button> *@
+
+    @* <!-- Chat Window --> *@
+    @* <div id="ai-chat-window" class="ai-chat-window" style="display:none; position: fixed; bottom: 70px; right: 20px; width: 300px; height: 400px; background-color: #fff; border: 1px solid #ccc; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> *@
+    @*     <textarea id="ai-chat-input" placeholder="Sormak istediğiniz soruyu yazın..." style="width: 100%; height: 60%;"></textarea> *@
+    @*     <button id="send-ai-message">Gönder</button> *@
+    @* </div> *@
+
+    @* <script> *@
+    @*     // Floating button'a tıklanınca chat penceresini göster *@
+    @*     document.getElementById('ai-chat-btn').addEventListener('click', function () { *@
+    @*         var chatWindow = document.getElementById('ai-chat-window'); *@
+    @*         chatWindow.style.display = chatWindow.style.display === 'none' ? 'block' : 'none'; *@
+    @*     }); *@
+
+    @*     // Chat penceresindeki mesaj gönderme işlemi *@
+    @*     document.getElementById('send-ai-message').addEventListener('click', function () { *@
+    @*         var message = document.getElementById('ai-chat-input').value; *@
+
+    @*         // Mesajı sunucuya gönderme *@
+    @*         if (message.trim()) { *@
+    @*             fetch('/Home/isAtaAI', { *@
+    @*                 method: 'POST', *@
+    @*                 headers: { 'Content-Type': 'application/json' }, *@
+    @*                 body: JSON.stringify({ isBaslik: 'Yeni iş', isAciklama: message, selectPerId: 2 }) *@
+    @*             }) *@
+    @*             .then(response => response.json()) *@
+    @*             .then(data => { *@
+    @*                 console.log(data);  // Yanıtı işleyebilirsiniz *@
+    @*                 document.getElementById('ai-chat-input').value = '';  // Mesaj alanını temizle *@
+    @*             }) *@
+    @*             .catch(error => console.error('Hata:', error)); *@
+    @*         } *@
+    @*     }); *@
+    @* </script> *@
+</body>
+</html>

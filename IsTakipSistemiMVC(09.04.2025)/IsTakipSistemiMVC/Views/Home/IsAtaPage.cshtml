@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "İş Ata";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+
+}
+<link rel="stylesheet" href="~/css/IsAtaPage.css" />
+<div class="container mt-5 mb-3">
+    <div class="card">
+        <div class="card-header">
+            Assignment Job for @ViewBag.BirimAd
+        </div>
+        <div class="card-body">
+            <form asp-controller="Home" asp-action="isAta" method="post">
+                <div class="mb-3">
+                    <label for="isBaslik" class="form-label">Write Job Tittle</label>
+                    <input type="text" class="form-control" id="isBaslik" name="isBaslik" />
+                </div>
+
+                <div class="mb-3">
+                    <label for="isAciklama" class="form-label">Write Job Content</label>
+                    <input type="text" class="form-control" id="isAciklama" name="isAciklama" />
+                </div>
+
+                <div class="mb-3">
+                    <label for="selectPer" class="form-label">Choose Worker</label>
+                    <select class="form-select" name="selectPerId" id="selectPer">
+                        @foreach (var personel in ViewBag.çalışanlar)
+                        {
+                            <option value="@personel.PersonelId">@personel.PersonelKullaniciAd</option>
+
+                        }
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <button class="btn btn-outline-primary" type="submit">Assignment Job</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
