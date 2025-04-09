@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\",
+  "WorkspaceRootPath": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(21.03.2025)\\istakipsistemimvc\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\cal\u0131smalar\u0131m\\is-takip-sistemi-.netmvc\\istakipsistemimvc(08.04.2025)(added art\u0131f\u0131cal intelligence)\\istakipsistemimvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\cal\u0131smalar\u0131m\\is-takip-sistemi-.netmvc\\istakipsistemimvc(08.04.2025)(added art\u0131f\u0131cal intelligence)\\istakipsistemimvc\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(21.03.2025)\\istakipsistemimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\cal\u0131smalar\u0131m\\is-takip-sistemi-.netmvc\\istakipsistemimvc(08.04.2025)(added art\u0131f\u0131cal intelligence)\\istakipsistemimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(21.03.2025)\\istakipsistemimvc\\models\\aiisatacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\cal\u0131smalar\u0131m\\is-takip-sistemi-.netmvc\\istakipsistemimvc(08.04.2025)(added art\u0131f\u0131cal intelligence)\\istakipsistemimvc\\models\\aiisatacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\models\\aiisatacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(21.03.2025)\\istakipsistemimvc\\models\\isler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\cal\u0131smalar\u0131m\\is-takip-sistemi-.netmvc\\istakipsistemimvc(08.04.2025)(added art\u0131f\u0131cal intelligence)\\istakipsistemimvc\\models\\isler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\models\\isler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(21.03.2025)\\istakipsistemimvc\\views\\home\\isatapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\cal\u0131smalar\u0131m\\is-takip-sistemi-.netmvc\\istakipsistemimvc(08.04.2025)(added art\u0131f\u0131cal intelligence)\\istakipsistemimvc\\views\\home\\isatapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\views\\home\\isatapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(21.03.2025)\\istakipsistemimvc\\views\\home\\aipage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\cal\u0131smalar\u0131m\\is-takip-sistemi-.netmvc\\istakipsistemimvc(08.04.2025)(added art\u0131f\u0131cal intelligence)\\istakipsistemimvc\\views\\home\\aipage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\views\\home\\aipage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(21.03.2025)\\istakipsistemimvc\\views\\home\\istamamlapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\cal\u0131smalar\u0131m\\is-takip-sistemi-.netmvc\\istakipsistemimvc(08.04.2025)(added art\u0131f\u0131cal intelligence)\\istakipsistemimvc\\views\\home\\istamamlapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\views\\home\\istamamlapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,41 +42,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 204,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\appsettings.json",
+              "ToolTip": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\appsettings.json",
+              "RelativeToolTip": "IsTakipSistemiMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T05:15:07.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Isler.cs",
-              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Models\\Isler.cs",
+              "DocumentMoniker": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Models\\Isler.cs",
               "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Models\\Isler.cs",
-              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Models\\Isler.cs",
+              "ToolTip": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Models\\Isler.cs",
               "RelativeToolTip": "IsTakipSistemiMVC\\Models\\Isler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:13:04.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T08:13:04.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AIIsAtaCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Models\\AIIsAtaCommand.cs",
+              "DocumentMoniker": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Models\\AIIsAtaCommand.cs",
               "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Models\\AIIsAtaCommand.cs",
-              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Models\\AIIsAtaCommand.cs",
+              "ToolTip": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Models\\AIIsAtaCommand.cs",
               "RelativeToolTip": "IsTakipSistemiMVC\\Models\\AIIsAtaCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:09:12.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T08:09:12.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AIController.cs",
-              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Controllers\\AIController.cs",
+              "DocumentMoniker": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Controllers\\AIController.cs",
               "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Controllers\\AIController.cs",
-              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Controllers\\AIController.cs",
+              "ToolTip": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Controllers\\AIController.cs",
               "RelativeToolTip": "IsTakipSistemiMVC\\Controllers\\AIController.cs",
               "ViewState": "AgIAAO4AAAAAAAAAAAAgwAEBAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AIPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Views\\Home\\AIPage.cshtml",
+              "DocumentMoniker": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Views\\Home\\AIPage.cshtml",
               "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Views\\Home\\AIPage.cshtml",
-              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Views\\Home\\AIPage.cshtml",
+              "ToolTip": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Views\\Home\\AIPage.cshtml",
               "RelativeToolTip": "IsTakipSistemiMVC\\Views\\Home\\AIPage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -99,11 +114,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "isTamamlaPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Views\\Home\\isTamamlaPage.cshtml",
+              "DocumentMoniker": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Views\\Home\\isTamamlaPage.cshtml",
               "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Views\\Home\\isTamamlaPage.cshtml",
-              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Views\\Home\\isTamamlaPage.cshtml",
+              "ToolTip": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Views\\Home\\isTamamlaPage.cshtml",
               "RelativeToolTip": "IsTakipSistemiMVC\\Views\\Home\\isTamamlaPage.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAwwDAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -111,11 +126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "IsTakipSistemiMVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAFoBAAAAAAAAAAAMwGYBAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,16 +139,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IsAtaPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Views\\Home\\IsAtaPage.cshtml",
+              "DocumentMoniker": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Views\\Home\\IsAtaPage.cshtml",
               "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Views\\Home\\IsAtaPage.cshtml",
-              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\Views\\Home\\IsAtaPage.cshtml",
+              "ToolTip": "C:\\Cal\u0131smalar\u0131m\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Art\u0131f\u0131cal Intelligence)\\IsTakipSistemiMVC\\Views\\Home\\IsAtaPage.cshtml",
               "RelativeToolTip": "IsTakipSistemiMVC\\Views\\Home\\IsAtaPage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T07:46:49.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:46:49.86Z"
             }
           ]
         }

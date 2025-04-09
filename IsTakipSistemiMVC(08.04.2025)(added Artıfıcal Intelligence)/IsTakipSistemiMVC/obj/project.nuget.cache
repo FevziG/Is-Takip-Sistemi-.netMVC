@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bwyIEkbRtwg=",
+  "dgSpecHash": "SId2cCv4z2c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(21.03.2025)\\IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj",
+  "projectFilePath": "C:\\Calısmalarım\\Is-Takip-Sistemi-.netMVC\\IsTakipSistemiMVC(08.04.2025)(added Artıfıcal Intelligence)\\IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fvz_g\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Fvz_g\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IsTakipSistemiMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f8a105824997d890d5e933f0c0fbe6ba81357c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+978aa2fa051702768a83526ee8da2aee95a512ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("IsTakipSistemiMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IsTakipSistemiMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
