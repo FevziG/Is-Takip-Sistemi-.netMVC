@@ -1,0 +1,16 @@
+﻿#ai-chat-input {
+    resize: none;
+    overflow-y: auto;
+    max-height: 200px; /* Maksimum boyut */
+}
+
+/* AI yanıtının ve container'ın alt kısmında kaydırma */
+#ai-response-container {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.container {
+    max-height: 90vh; /* Sayfa yüksekliğinin %90'ı kadar genişlesin */
+    overflow-y: auto; /* Aşağı doğru kayabilsin */
+}
