@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(15.04.2025)\\istakipsistemimvc\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(15.04.2025)\\istakipsistemimvc\\views\\home\\islistele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\views\\home\\islistele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(15.04.2025)\\istakipsistemimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(15.04.2025)\\istakipsistemimvc\\views\\home\\istakippage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\views\\home\\istakippage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(15.04.2025)\\istakipsistemimvc\\utilities\\aicontrolhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\utilities\\aicontrolhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|c:\\users\\fvz_g\\desktop\\istakipsistemimvc(15.04.2025)\\istakipsistemimvc\\views\\home\\aipage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5542D12D-FD63-4017-A88D-9FC63F00A739}|IsTakipSistemiMVC\\IsTakipSistemiMVC.csproj|solutionrelative:istakipsistemimvc\\views\\home\\aipage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IsListele.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
+              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
+              "RelativeToolTip": "IsTakipSistemiMVC\\Views\\Home\\IsListele.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T08:34:23.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AIPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Views\\Home\\AIPage.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Views\\Home\\AIPage.cshtml",
+              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Views\\Home\\AIPage.cshtml",
+              "RelativeToolTip": "IsTakipSistemiMVC\\Views\\Home\\AIPage.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T06:09:00.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Controllers\\AIController.cs",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Controllers\\AIController.cs",
+              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Controllers\\AIController.cs",
+              "RelativeToolTip": "IsTakipSistemiMVC\\Controllers\\AIController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:24:25.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IsTakipPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Views\\Home\\IsTakipPage.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Views\\Home\\IsTakipPage.cshtml",
+              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Views\\Home\\IsTakipPage.cshtml",
+              "RelativeToolTip": "IsTakipSistemiMVC\\Views\\Home\\IsTakipPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T08:36:16.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IsTakipSistemiMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAgwJMBAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:51:21.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AIControlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Utilities\\AIControlHelper.cs",
+              "RelativeDocumentMoniker": "IsTakipSistemiMVC\\Utilities\\AIControlHelper.cs",
+              "ToolTip": "C:\\Users\\Fvz_g\\Desktop\\IsTakipSistemiMVC(15.04.2025)\\IsTakipSistemiMVC\\Utilities\\AIControlHelper.cs",
+              "RelativeToolTip": "IsTakipSistemiMVC\\Utilities\\AIControlHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:12:30.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

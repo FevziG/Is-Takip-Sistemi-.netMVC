@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "AI Chat";
+    int? yID = Model as int?;
+    if (yID == 1)
+    {
+        Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    }
+    if (yID == 2)
+    {
+        Layout = "~/Views/Shared/_LayoutCalisan.cshtml";
+    }
+}
+
+<link rel="stylesheet" href="~/css/AIPage.css" />
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI Chat</title>
+
+</head>
+<body>
+    <form asp-controller="AI" asp-action="GetGeminiResponse"method="post">
+        <div class="container mt-4">
+            <h2>AI Chat ile Görev Atama</h2>
+            <div class="card">
+                <div class="card-body">
+                    <input type="text" name="prompt" id="prompt" class="form-control" placeholder="Görev açıklamasını yazın..." rows="3"></input>
+                    <button  type="submit" class="btn btn-primary mt-2">Gönder</button>
+                </div>
+            </div>
+        </div>
+    </form>
+    @if (ViewBag.AIResponse != null)
+    {
+        <div class="alert alert-info mt-3">
+            <strong>AI Cevabı:</strong> @ViewBag.AIResponse
+        </div>
+    }
+    @* @if(ViewBag.AIError != null) *@
+    @* { *@
+    @*     <div class="alert alert-danger mt-3 "> *@
+    @*         <strong>@ViewBag.AIError</strong> *@
+    @*     </div>    *@
+    @* } *@
+    @if (ViewBag.AISuccess != null)
+    {
+        <div class="alert alert-primary">
+            <strong>@ViewBag.AISuccess</strong>
+        </div>    
+    }
+    @if (TempData["AIError"] != null)
+    {
+        <div class="alert alert-danger mt-3">
+            <strong>@TempData["AIError"]</strong>
+        </div>        
+    }
+</body>
+</html>
